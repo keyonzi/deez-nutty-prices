@@ -8,7 +8,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>A fun fantasy bestball league that brings on the challenge. Waivers only open in the off season, so you can only make your team better view trade</p>
-  <p>The consectutive wins leader will be here:<b> Too Many Teams Tied at 2</b></p>
+  <p>The consecutive wins:<b> Patsforlife22:</b> 8 </p>
+  <p>Highest Weekly Score:<b> Cellerdweller:</b> 241.46 </p>
 `;
 
 /*   STEP 3   */
